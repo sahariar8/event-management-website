@@ -1,0 +1,71 @@
+ [
+      {
+        "id":1,
+        "image": "https://i.ibb.co/h8WGJWt/ser1.jpg",
+        "service_name": "Wedding Planning",
+        "price": "$2,500 - $5,000",
+        "title1":"Wedding Planning: A Journey to Your Dream Day",
+        "title2":"The Artistry of Vision and Design",
+        "short_desc": "Let us make your special day unforgettable with our expert wedding planning services.",
+        "long_desc1":"Wedding planning is a comprehensive and intricate process that transforms the dreams and aspirations of soon-to-be-married couples into a beautifully orchestrated celebration of love and commitment. It's a journey that begins long before the exchange of vows and rings, encompassing months of careful preparation, meticulous attention to detail, and the expertise of dedicated professionals. From the moment a couple decides to embark on this exciting voyage, the world of wedding planning unfolds before them, offering a canvas upon which their unique love story can be artfully displayed.",
+        "long_desc2":"At its core, wedding planning is an art form—a collaborative effort between couples and skilled wedding planners who possess the vision to create a day that reflects the personalities, dreams, and desires of the soon-to-be-weds. It all starts with the envisioning of the perfect day, from the grandeur of the venue to the smallest intricacies of decor. Every aspect of the wedding, from the color palette to the flower arrangements, must harmonize to create an ambiance that captures the essence of the couple's love story."
+                    
+      },
+      {
+        "id":2,
+        "image": "https://i.ibb.co/7VHSvV6/ser2.jpg",
+        "service_name": "Birthday Parties",
+        "price": "$500 - $1,000",
+        "title1":"Birthday Party Elements",
+        "title2":"Invitations,Venue,Themes and Decorations",
+        "short_desc": "Create memorable and fun birthday parties that cater to all ages and preferences.",
+        "long_desc1":"A birthday party is a joyous and festive occasion held to celebrate the anniversary of a person's birth. It's a time when friends and family come together to mark another year of life and to honor and cherish the person whose special day it is. Birthday parties are filled with laughter, love, and a sense of camaraderie, and they vary in size, style, and theme, catering to the unique preferences and personality of the birthday celebrant. Here's a more detailed description of birthday parties:",
+        "long_desc2":"The celebration typically begins with the distribution of invitations to friends, family members, and loved ones. Invitations can be physical cards, digital messages, or even verbal invitations, depending on the formality of the event.Birthday parties can be hosted in a variety of locations, including homes, parks, restaurants, banquet halls, or even unique and themed venues. The choice of venue often reflects the theme and scale of the party.Many birthday parties are organized around specific themes, such as princesses, superheroes, tropical luau, or a favorite movie or TV show. Decorations, including balloons, banners, table settings, and props, are carefully chosen to match the theme and create a visually appealing atmosphere."
+      },
+      {
+        "id":3,
+        "image": "https://i.ibb.co/0fJ8mW9/ser3.jpg",
+        "service_name": "Anniversaries",
+        "price": "$3,000 - $7,000",
+        "title1":"Anniversaries Planning: A Journey to Your Dream Day",
+        "title2":"The Artistry of Vision and Design",
+        "short_desc": "An anniversary is a significant and special occasion that marks the passage of time since a particular event or milestone.",
+        "long_desc1":"A wedding anniversary is a profound and cherished milestone in the journey of a married couple's life together. It is a day that symbolizes the enduring commitment, love, and partnership that two individuals have shared since they pledged their vows and embarked on the adventure of marriage. With each passing year, an anniversary becomes more than just a date on the calendar; it becomes a testament to the resilience of their love and a celebration of the life they've built together.",
+        "long_desc2":"At its core, wedding planning is an art form—a collaborative effort between couples and skilled wedding planners who possess the vision to create a day that reflects the personalities, dreams, and desires of the soon-to-be-weds. It all starts with the envisioning of the perfect day, from the grandeur of the venue to the smallest intricacies of decor. Every aspect of the wedding, from the color palette to the flower arrangements, must harmonize to create an ambiance that captures the essence of the couple's love story."
+      },
+      {
+        "id":4,
+        "image": "https://i.ibb.co/5R4KrHV/ser4.jpg",
+        "service_name": "Retirement Parties",
+        "price": "$500 - $1,500",
+        "title1":"Purpose and Significance:",
+        "title2":"Venue and Decor:",
+        "short_desc": "A retirement party is a special event held to celebrate the career and achievements of an individual who is retiring from their professional life,",
+        "long_desc1":"A retirement party is a heartfelt and often emotional celebration held in honor of an individual who is concluding their professional career and embarking on the next chapter of their life: retirement. It is a significant milestone that marks the culmination of years, or even decades, of dedication and hard work in the workforce. Retirement parties are more than just gatherings; they are meaningful tributes that allow colleagues, friends, and family to express their gratitude, admiration, and well-wishes for the retiree.",
+        "long_desc2":"Retirement parties serve as a well-deserved farewell to the retiree, recognizing their invaluable contributions to their workplace and the community. They provide an opportunity for everyone to collectively express their appreciation and bid a fond farewell as the retiree transitions into a new phase of life."
+      },
+      {
+        "id":5,
+        "image": "https://i.ibb.co/HG5wTPr/istockphoto-1368004428-612x612.webp",
+        "service_name": "Engagement Parties",
+        "price": "$1,000 - $3,000",
+        "title1":"Venue and Atmosphere:",
+        "title2":"Guest List,Announcement:",
+        "short_desc": "Plan and execute successful corporate events that leave a lasting impression on your clients.",
+        "long_desc1":"An engagement party is a celebratory gathering that marks the joyous occasion when a couple announces their engagement and their commitment to getting married. It is a prelude to the wedding, a moment of shared happiness between the couple, their families, and close friends. This event allows everyone to come together and offer their congratulations and well-wishes to the soon-to-be-married couple. Here's a detailed description of engagement parties.",
+        "long_desc2":"Engagement parties can take place in a variety of settings, from intimate gatherings in homes to larger affairs in event venues or outdoor spaces. The choice of venue often reflects the couple's style and preferences. The atmosphere is typically relaxed, filled with warmth, excitement, and anticipation."
+      },
+      {
+        "id":6,
+        "image": "https://i.ibb.co/BwcGMq4/ser6.jpg",
+        "service_name": "Baby shower",
+        "price": "$2,000 - $5,000",
+        "title1":"Guests and Invitations:",
+        "title2":"Theme and Decorations:",
+        "short_desc": "A baby shower is a special celebration typically held before the birth of a child, usually during the later stages of pregnancy. ",
+        "long_desc1":"A baby shower is a heartwarming and joyous occasion that brings together family and friends to celebrate the imminent arrival of a new baby into the world. It's a special event filled with love, laughter, and anticipation, and it serves as a way to honor and support the expectant parents as they embark on their journey into parenthood. During a baby shower, guests gather to express their happiness and best wishes for the soon-to-be parents. The atmosphere is typically filled with excitement and a sense of unity, as loved ones come together to share in the anticipation of a new life. Here's a more detailed description of a baby shower",
+        "long_desc2":"Close family members, friends, and sometimes colleagues are invited to the baby shower. Invitations are thoughtfully designed to reflect the theme or style chosen for the event and typically include details such as the date, time, location, and RSVP information.Many baby showers feature a specific theme or color scheme that adds an element of creativity and charm to the celebration. Decorations such as balloons, banners, and table centerpieces are chosen to match the theme and create a festive atmosphere. Themes can range from classic baby motifs to more unique and personalized ideas."
+      }
+]
+  
+  
